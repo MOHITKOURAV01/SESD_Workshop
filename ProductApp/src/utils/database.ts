@@ -18,9 +18,7 @@ export const dbConnection = async () => {
 
     try {
         await connect(dbConfig.url)
-        console.log(`=================================`)
         console.log(`Connected to MongoDB Database!`)
-        console.log(`=================================`)
     } catch (error) {
         console.error('Database Connection Error:', error)
     }
