@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.DS_Store
+coverage
+ProductApp/node_modules
+ProductApp/dist
+ProductApp/.env
+TodoL/node_modules
+TodoL/dist
+TodoL/.env
