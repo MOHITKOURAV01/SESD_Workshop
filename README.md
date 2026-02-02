@@ -2,7 +2,7 @@
 
 This repository contains two comprehensive backend applications demonstrating Object-Oriented Programming principles and clean architecture patterns in Node.js with TypeScript.
 
-## Projects Overview
+## Projects Overview :-
 
 ### 1. ProductApp - Advanced Inventory Management System
 A full-featured product inventory backend with authentication, search, filtering, sorting, and pagination capabilities.
@@ -149,6 +149,3 @@ SESD_Workshop/
 - `POST /` - Create new todo
 - `PUT /:id` - Update todo
 - `DELETE /:id` - Delete todo
-
-## Author
-Mohit Kourav
