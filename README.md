@@ -151,9 +151,4 @@ SESD_Workshop/
 - `DELETE /:id` - Delete todo
 
 ## Author
-
 Mohit Kourav
-
-## License
-
-This project is created for educational purposes as part of the SESD Workshop.
